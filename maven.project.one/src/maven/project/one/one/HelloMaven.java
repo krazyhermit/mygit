@@ -9,6 +9,8 @@ public class HelloMaven {
 		int c = a+b;
 		return c;
 	}
-	
+	public void print(){
+		System.out.println("Test Printing");
+	}
 	
 }
