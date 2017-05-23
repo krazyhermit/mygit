@@ -15,7 +15,7 @@ public class HelloMaven {
 	//PRINT Method
 	public void printMethod(){
 		System.out.println("Test Printing");
-		System.out.println("just another print line added");
+		
 	}
 	
 }
