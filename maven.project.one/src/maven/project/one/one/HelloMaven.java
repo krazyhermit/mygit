@@ -13,4 +13,8 @@ public class HelloMaven {
 	}
 	
 	
+	public void print(){
+		System.out.println("Test Printing");
+	}
+	
 }
