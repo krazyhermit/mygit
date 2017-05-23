@@ -6,13 +6,13 @@ public class HelloMaven {
 		System.out.println("Hello there you have invoked the default constructor!");
 	}
 	
-	
+	// SUM Method
 	public int sum(int a,int b){
 		int c = a+b;
 		return c;
 	}
 	
-	
+	//PRINT Method
 	public void print(){
 		System.out.println("Test Printing");
 	}
