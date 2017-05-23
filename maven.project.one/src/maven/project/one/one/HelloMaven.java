@@ -12,9 +12,10 @@ public class HelloMaven {
 		return c;
 	}
 	
-	
-	public void print(){
+	//print method name changed and one more line added
+	public void printMethod(){
 		System.out.println("Test Printing");
+		System.out.println("just another print line added");
 	}
 	
 }
