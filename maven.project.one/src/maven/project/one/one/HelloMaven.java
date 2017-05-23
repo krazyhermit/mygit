@@ -12,9 +12,5 @@ public class HelloMaven {
 		return c;
 	}
 	
-	/*
-	public void print(){
-		System.out.println("Test Printing");
-	}
-	*/
+	
 }
